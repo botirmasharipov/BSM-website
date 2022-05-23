@@ -1,0 +1,36 @@
+.bottom-container {
+  background-color: aqua;
+  display: flex;
+  justify-content: flex-start;
+
+  gap: 30px;
+  width: 100vw;
+  height: 200px;
+}
+.insideContainer1 {
+  width: 120px;
+  height: 120px;
+  background-color: blue;
+  vertical-align: center;
+  margin: 30px;
+}
+
+.insideContainer2 {
+  width: 120px;
+  height: 120px;
+  background-color: brown;
+  vertical-align: center;
+  margin: 30px;
+}
+
+.insideContainer3 {
+  width: 120px;
+  height: 120px;
+  background-color: blueviolet;
+  vertical-align: center;
+  margin: 30px;
+}
+
+p {
+  color: aliceblue;
+}
